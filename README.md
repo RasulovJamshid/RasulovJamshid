@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulovjamshid" alt="rasulovjamshid" /> </p>
 
-- 🔭 I’m currently working on **e-commerce platform**
+- 🔭 I’m currently working on **soccer scores platform**
 
 - 🌱 I’m currently learning **Deep Learning, Robotics and Electronics**
 
